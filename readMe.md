@@ -45,5 +45,3 @@ python script.py source_file.txt compressed_file.bin
 ```
 
 Replace `script.py`, `source_file.txt`, and `compressed_file.bin` with your actual script name, source file, and destination file.
-
-Feel free to explore and compare the different algorithms based on their time and space complexities for your specific use case.
